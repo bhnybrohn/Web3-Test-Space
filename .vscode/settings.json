@@ -3,5 +3,20 @@
         "activityBar.background": "#411A5E",
         "titleBar.activeBackground": "#5A2583",
         "titleBar.activeForeground": "#FCF9FD"
-    }
+    },
+    "cSpell.words": [
+        "APIKEY",
+        "APISECRET",
+        "bech",
+        "curltest",
+        "getrawtransaction",
+        "hdkey",
+        "HDPATH",
+        "Limt",
+        "Mneomnic",
+        "mytxid",
+        "testground",
+        "transacti'on",
+        "wordlists"
+    ]
 }
